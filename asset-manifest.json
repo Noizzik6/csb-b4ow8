@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://noizzik6.github.io/csb-b4ow8/static/css/main.2becae9e.chunk.css",
+    "main.js": "https://noizzik6.github.io/csb-b4ow8/static/js/main.42832460.chunk.js",
+    "main.js.map": "https://noizzik6.github.io/csb-b4ow8/static/js/main.42832460.chunk.js.map",
+    "runtime-main.js": "https://noizzik6.github.io/csb-b4ow8/static/js/runtime-main.36293759.js",
+    "runtime-main.js.map": "https://noizzik6.github.io/csb-b4ow8/static/js/runtime-main.36293759.js.map",
+    "static/js/2.6224a26d.chunk.js": "https://noizzik6.github.io/csb-b4ow8/static/js/2.6224a26d.chunk.js",
+    "static/js/2.6224a26d.chunk.js.map": "https://noizzik6.github.io/csb-b4ow8/static/js/2.6224a26d.chunk.js.map",
+    "index.html": "https://noizzik6.github.io/csb-b4ow8/index.html",
+    "precache-manifest.fd88f4a1107b82dfaa9f7f67e2651142.js": "https://noizzik6.github.io/csb-b4ow8/precache-manifest.fd88f4a1107b82dfaa9f7f67e2651142.js",
+    "service-worker.js": "https://noizzik6.github.io/csb-b4ow8/service-worker.js",
+    "static/css/main.2becae9e.chunk.css.map": "https://noizzik6.github.io/csb-b4ow8/static/css/main.2becae9e.chunk.css.map",
+    "static/js/2.6224a26d.chunk.js.LICENSE": "https://noizzik6.github.io/csb-b4ow8/static/js/2.6224a26d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36293759.js",
+    "static/js/2.6224a26d.chunk.js",
+    "static/css/main.2becae9e.chunk.css",
+    "static/js/main.42832460.chunk.js"
+  ]
+}
